@@ -8,3 +8,4 @@ The following is a project that I once made while participating in a big data tr
 
 ## Other Data Science Project
   - Text Mining Final Project - https://colab.research.google.com/drive/1oUR56OzPGO0WerUmXp7CuMfU4rJWn7E8?usp=sharing
+  - Covid and GDP corelation - https://colab.research.google.com/drive/1SGkKkDExUZ1ciDerS45jhOTWwdVEovSA?usp=sharing
