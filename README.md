@@ -1,4 +1,4 @@
-# data-science-project
+# Personal Data Science Project
 This repository is a place to organize data science projects that I have created. Most of the projects I make use Google Colab.
 
 ## Cisco Big Data using Python
